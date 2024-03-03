@@ -1,0 +1,2 @@
+# thistea
+tea testnet
